@@ -125,7 +125,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## Acknowledgements
 
-- Built while following the Next.js series by [Chai aur Code](https://www.youtube.com/@chaiaurcode)
+- Built while following the Next.js 
 - UI components from [shadcn/ui](https://ui.shadcn.com/) and [Aceternity UI](https://ui.aceternity.com/)
 - Course images from [Pexels](https://www.pexels.com/) and [Unsplash](https://unsplash.com/)
 
