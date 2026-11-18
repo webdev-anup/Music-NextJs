@@ -1,0 +1,84 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Introduction to Music Theory",
+      "slug": "introduction-to-music-theory",
+      "description": "Learn the fundamentals of music theory including scales, chords, and harmony.",
+      "price": 299.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/courses/guitar.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Advanced Guitar Techniques",
+      "slug": "advanced-guitar-techniques",
+      "description": "Master advanced guitar techniques and improve your playing skills.",
+      "price": 399.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "/courses/advanced-guitar.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Piano for Beginners",
+      "slug": "piano-for-beginners",
+      "description": "Start your piano journey with basic keys, finger placement, and simple songs.",
+      "price": 199.99,
+      "instructor": "Emily Clark",
+      "isFeatured": false,
+      "image": "/courses/piano-beginners.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Music Production with Ableton Live",
+      "slug": "music-production-with-ableton-live",
+      "description": "Create, mix, and master your own tracks from scratch using Ableton Live.",
+      "price": 499.99,
+      "instructor": "Michael Brown",
+      "isFeatured": true,
+      "image": "/courses/music-production.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Vocal Training Masterclass",
+      "slug": "vocal-training-masterclass",
+      "description": "Improve your breath control, pitch, and range with guided vocal exercises.",
+      "price": 249.99,
+      "instructor": "Sarah Johnson",
+      "isFeatured": true,
+      "image": "/courses/vocal-training.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Drumming Fundamentals",
+      "slug": "drumming-fundamentals",
+      "description": "Learn rhythm, grooves, and basic fills to play along with your favorite songs.",
+      "price": 279.99,
+      "instructor": "David Lee",
+      "isFeatured": true,
+      "image": "/courses/drumming.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Songwriting and Composition",
+      "slug": "songwriting-and-composition",
+      "description": "Turn your ideas into complete songs with lyrics, melody, and structure.",
+      "price": 349.99,
+      "instructor": "Olivia Martinez",
+      "isFeatured": true,
+      "image": "/courses/songwriting.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Bollywood Singing Basics",
+      "slug": "bollywood-singing-basics",
+      "description": "Learn popular Bollywood singing styles, taans, and expression techniques.",
+      "price": 229.99,
+      "instructor": "Rohan Mehta",
+      "isFeatured": true,
+      "image": "/courses/bollywood-singing.jpg"
+    }
+  ]
+}
